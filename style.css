@@ -7,8 +7,11 @@
     font-family: 'Overpass', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Raleway', sans-serif;
-    font-family: 'Solway', serif;
+    font-family: 'Solway', serif; margin: 0;
 }
-.main-section .container{
-    margin-left: 90px;
+/* .main-section .container{
+    margin-left: 90px;  */
+}
+.main-section .container button{
+    
 }
