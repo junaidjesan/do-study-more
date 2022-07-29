@@ -10,8 +10,5 @@
     font-family: 'Solway', serif; margin: 0;
 }
 .slider div div img{
-    height: 500px; filter: brightness(50%);
+    height: 400px; filter: brightness(50%);
 }
-/* .slider div div .card-body{
-    height: 500px; width: 100%; text-align: center;
-} */
